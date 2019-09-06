@@ -4,6 +4,7 @@
 # In[14]:
 
 
+#นาย ธนาคาร สายรีรักษ์ 362515241006 EE36241N
 number = int(input("enter number :"))
 sum = 0
 for number in range(1, number):
