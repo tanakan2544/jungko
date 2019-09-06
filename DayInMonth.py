@@ -4,6 +4,7 @@
 # In[17]:
 
 
+#นาย ธนาคาร สายรีรักษ์ 362515241006 EE36241N
 month = int(input("Fill out month :"))
 year = int (input("Fill out year :")) 
 years = year-543
