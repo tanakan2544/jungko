@@ -4,6 +4,7 @@
 # In[9]:
 
 
+#นาย ธนาคาร สายรีรักษ์ 362515241006 EE36241N
 sum = 0
 count = 0
 n = float(input("enter number"))
