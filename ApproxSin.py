@@ -4,6 +4,7 @@
 # In[8]:
 
 
+#นาย ธนาคาร สายรีรักษ์ 362515241006 EE36241N
 import math
 x = float(input())
 x = math.radians(x%360)
